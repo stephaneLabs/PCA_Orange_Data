@@ -1,4 +1,4 @@
-Bac à sable, j'utilise seulement les données de la référence principale sur la PLS spline
+Bac à sable, j'utilise seulement certaines données de la référence principale sur la PLS spline
 
 # PCA of orange juice data
 
