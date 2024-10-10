@@ -1,19 +1,16 @@
-Work in progress, j'utilise seulement les données de la référence principale sur la PLS spline
-PCA of orange juice data
+Bac à sable, j'utilise seulement les données de la référence principale sur la PLS spline
 
-References :
+# PCA of orange juice data
 
-Durand, J. F. (2000). La régression Partial Least-Squares Spline. Rapport de recherche ENSA-M - INRA - UM II
+# References :
+- Durand, J. F. (2000). La régression Partial Least-Squares Spline. Rapport de recherche ENSA-M - INRA - UM II
+- Durand, J. F. (2002). Éléments de calcul matriciel et d’analyse factorielle de données. Cours polycopié, Département de Mathématiques, Université Montpellier II.
 
-Durand, J. F. (2002). Éléments de calcul matriciel et d’analyse factorielle de données. Cours polycopié, Département de Mathématiques, Université Montpellier II.
-
-Other source material :
-
+# Other source material :
     R programs (2021): https://jf-durand-pls.com/ProgramSources.html
     Datasets : https://jf-durand-pls.com/Datasets.html
 
-Documentation
-
+# Documentation
     https://docs.python.org/fr/3/tutorial/datastructures.html
     https://pandas.pydata.org/
     https://python-graph-gallery.com/3-control-color-of-barplots/
@@ -22,6 +19,5 @@ Documentation
     https://stackoverflow.com
     https://learnche.org/pid/latent-variable-modelling/projection-to-latent-structures/how-the-pls-model-is-calculated
 
-Licence
-
+# Licence
     Copyright Stéphane LASSALVY 2024 - Licence GPL-3
